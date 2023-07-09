@@ -1,0 +1,3 @@
+venv/
+hockey/hockey/__pycache__
+hockey/hockey/spiders/__pycache__
